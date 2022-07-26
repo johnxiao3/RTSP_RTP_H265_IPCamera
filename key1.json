@@ -1,0 +1,7 @@
+{
+  "url": "ip",
+  "port": port,
+  "user": "user",
+  "pwd": "password",
+  "path": "path to save"
+}
